@@ -16,6 +16,7 @@
         <drawerType>MapMeshAndRealTime</drawerType>
         <graphicData>
             <texPath>Storage/CargoPlatform</texPath>
+            <graphicClass>Graphic_Multi</graphicClass>
             <drawSize>(3,3)</drawSize>
             <damageData>
                 <rect>(0.0,0,2.9,2.9)</rect>
